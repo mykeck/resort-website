@@ -1,5 +1,12 @@
 h1{
-    color: aquamarine;
+    color: rgb(185, 183, 49);
     text-align: center;
 }
 html{background-color: blanchedalmond;}
+nav>ul{
+    list-style: none;
+}
+nav>ul>li{
+    display: inline;
+    padding: 4px;
+}
